@@ -1,6 +1,5 @@
 package javaapplication3;
 
-import javax.swing.JFrame;
 import javax.swing.UIManager;
 
 public class Main {
