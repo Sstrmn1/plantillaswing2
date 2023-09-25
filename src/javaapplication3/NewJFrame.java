@@ -1,12 +1,13 @@
-
 package javaapplication3;
-
 
 public class NewJFrame extends javax.swing.JFrame {
 
-
     public NewJFrame() {
         initComponents();
+    }
+
+    public javax.swing.JTree getJTree() {
+        return jTree1;
     }
 
     /**
